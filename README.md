@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**IfVar/IfVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">@IfVar</h1>
+<h4 align="center">Known Under Many Other Aliases</h4>
+<ul>
+  <li>GitHub</li>
+    <ul>
+      <li>@ConstVar [Account Hidden]</li>
+      <li>@G-xming</li>
+      <li>@NoMoCens</li>
+      <li>Probably More I Dont Remember</li>
+    </ul>
+  <li>Replit</li>
+    <ul>
+      <li>Gxming</li>
+      <li>8BP</li>
+      <li>R5V</li>
+      <li>R6V</li>
+      <li>R8V</li>
+      <li>0000030</li>
+      <li>x-p</li>
+      <li>Q4D</li>
+      <li>ALOT MORE</li>
+    </ul>
+</ul>
