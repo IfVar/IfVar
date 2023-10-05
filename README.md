@@ -21,3 +21,12 @@
       <li>ALOT MORE</li>
     </ul>
 </ul>
+
+<h1 align="center">Programming Languages</h1>
+<h4 align="center">List Of My Langauges Im Learning/Know</h4>
+
+ - HTML / Javascript / CSS [Majority]
+- Lua [Very Little]
+- Python [Very Little]
+- CMD Batch (If You Count That As A Language, .bat files)
+- Node.js [Barely Any]
